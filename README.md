@@ -1,5 +1,7 @@
 # CIFAR-10-ML
 
-Team Member : Jonathan Guo, Ethan pang, Vaibhav Mohata
+Team Members : Jonathan Guo, Ethan Pang, Vaibhav Mohata
 
-Topic : 
+Topic : Try to get the highest accuracy on the CIFAR data set. 
+
+We are trying different models to see which ones attain the highest accuracy on the CIFAR data set. Currently we've tried neural networks and SVMs.  
